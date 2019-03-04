@@ -1,0 +1,13 @@
+F:\code\C#\SearchTest\SearchTest\bin\Debug\SearchTest.exe.config
+F:\code\C#\SearchTest\SearchTest\bin\Debug\SearchTest.exe
+F:\code\C#\SearchTest\SearchTest\bin\Debug\SearchTest.pdb
+F:\code\C#\SearchTest\SearchTest\bin\Debug\EntityFramework.dll
+F:\code\C#\SearchTest\SearchTest\bin\Debug\EntityFramework.SqlServer.dll
+F:\code\C#\SearchTest\SearchTest\bin\Debug\EntityFramework.xml
+F:\code\C#\SearchTest\SearchTest\bin\Debug\EntityFramework.SqlServer.xml
+F:\code\C#\SearchTest\SearchTest\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\code\C#\SearchTest\SearchTest\obj\Debug\SearchTest.csprojAssemblyReference.cache
+F:\code\C#\SearchTest\SearchTest\obj\Debug\SearchTest.csproj.CoreCompileInputs.cache
+F:\code\C#\SearchTest\SearchTest\obj\Debug\SearchTest.csproj.CopyComplete
+F:\code\C#\SearchTest\SearchTest\obj\Debug\SearchTest.exe
+F:\code\C#\SearchTest\SearchTest\obj\Debug\SearchTest.pdb
