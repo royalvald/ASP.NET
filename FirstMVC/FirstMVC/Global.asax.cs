@@ -12,10 +12,21 @@ namespace FirstMVC
     {
         protected void Application_Start()
         {
+            RemoveFormEngines();
+
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
+
+        protected void RemoveFormEngines()
+        {
+            var viewEngines = ViewEngines.Engines;
+            var webFormEngines = viewEngines.OfType<WebFormViewEngine>().FirstOrDefault();
+            if (webFormEngines != null)
+                viewEngines.Remove(webFormEngines);
+        }
     }
+
 }
