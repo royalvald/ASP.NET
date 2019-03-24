@@ -1,0 +1,12 @@
+F:\code\C#\EFDemo\EFConsole\EFConsole\obj\Debug\EFConsole.csprojAssemblyReference.cache
+F:\code\C#\EFDemo\EFConsole\EFConsole\obj\Debug\EFConsole.csproj.CoreCompileInputs.cache
+F:\code\C#\EFDemo\EFConsole\EFConsole\bin\Debug\EFConsole.exe.config
+F:\code\C#\EFDemo\EFConsole\EFConsole\bin\Debug\EFConsole.exe
+F:\code\C#\EFDemo\EFConsole\EFConsole\bin\Debug\EFConsole.pdb
+F:\code\C#\EFDemo\EFConsole\EFConsole\bin\Debug\EntityFramework.dll
+F:\code\C#\EFDemo\EFConsole\EFConsole\bin\Debug\EntityFramework.SqlServer.dll
+F:\code\C#\EFDemo\EFConsole\EFConsole\bin\Debug\EntityFramework.xml
+F:\code\C#\EFDemo\EFConsole\EFConsole\bin\Debug\EntityFramework.SqlServer.xml
+F:\code\C#\EFDemo\EFConsole\EFConsole\obj\Debug\EFConsole.csproj.CopyComplete
+F:\code\C#\EFDemo\EFConsole\EFConsole\obj\Debug\EFConsole.exe
+F:\code\C#\EFDemo\EFConsole\EFConsole\obj\Debug\EFConsole.pdb
